@@ -1,0 +1,14 @@
+
+#container {
+  display: flex;
+  justify-content: center;
+
+}
+
+.problemInput {
+  width: 500px;
+}
+
+.textarea {
+  width: 500px;
+}
