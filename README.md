@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MyLMS is a learning/content management system for computer programming courses. The system presents students with problems to work (small programs to write), gives them hints to help them, and will show them the solution either after they've submitted their solution or if they cannot provide a solution of their own. The system also keeps statistics on the number of problems the student turns in so that these statistics can be used for grading. (In my grading system, to earn an A the student has to submit x number of problem solutions, for a B, they have to turn in x-y problem solutions, etc.)
 
 ## Available Scripts
 
